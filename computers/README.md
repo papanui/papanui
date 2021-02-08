@@ -147,7 +147,7 @@ This check-list document is available here.
 All computers are connected to internet services that are paid for by the Centre. It is up to the individual 
 users not to abuse this network service.
 
-Link to network details.
+[Link](/network/README.md) to network information.
 
 ## Printer
 
