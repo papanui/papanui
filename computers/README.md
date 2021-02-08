@@ -147,12 +147,14 @@ This check-list document is available here.
 All computers are connected to internet services that are paid for by the Centre. It is up to the individual 
 users not to abuse this network service.
 
-[Link](/network/README.md) to network information.
+[Link](network/README.md) to network information.
 
 ## Printer
 
 The Centre has a network printer. Users logged into the *Career* account may perform printing. The *Enderley* 
 account does not provide printing capability.
+
+[Link](printer/README.md) to printer information.
 
 ## Storage of Documents
 
