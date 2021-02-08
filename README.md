@@ -2,4 +2,6 @@
 
 This repository provides documents on facilities and policies, etc.
 
-* [Computers](papanui/computers/README.md) in Te Papanui Enderley Community Trust.
+* [Computers](https://github.com/papanui/papanui/blob/main/computers/README.md) in Te Papanui Enderley Community Trust.
+
+* [Computers](papanui/papanui/blob/main/computers/README.md) in Te Papanui Enderley Community Trust.
