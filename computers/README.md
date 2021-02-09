@@ -165,7 +165,7 @@ attachments to their e-mail accounts, etc.
 Files stored in the *Enderley* account are deleted upon logging out of the account and then logging back in. 
 
 
-## On Going Maintenance
+## Ongoing Maintenance
 
 It is envisaged that there will be residents in the community that have an interest in volunteering their 
 time and knowledge to maintain the computer equipment. Their main duty will be to regularly apply the 
