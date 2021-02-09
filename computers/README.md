@@ -121,6 +121,13 @@ that have hardware problems. The general repair strategy will be to scrap a comp
 it with another donated second-hand computer. Prior to scrapping a computer its RAM and SSD will be removed 
 and kept as spares by the Centre.
 
+Three catagories of computers are available for public use:
+
+* HP 8x00 series Small Form Factor Desktop.
+* Dell OptiPlex 9010 Small Form Factor Desktop.
+* Lenovo ThinkCentre Edge 72z All-in-1.
+
+Additionally there are two older computers. They are primarily used to play music from spotify or youtube clips.  
 
 ## Ergonomics
 
