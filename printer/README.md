@@ -4,12 +4,9 @@ Version: 2021-02-08
 
 The printer is:
 
-Fuji-Xerox ApeosPort-IV C3373
+Fuji-Xerox ApeosPort-IV C3373. [Administration Manual](https://www.manualslib.com/manual/1063690/Fuji-Xerox-Apeosport-Iv-C5575.html)
 
-The Ubuntu printer driver is for:
-Generic Postscript Printer Foomatic/Postscript
-
-[Administration Manual](https://www.manualslib.com/manual/1063690/Fuji-Xerox-Apeosport-Iv-C5575.html)
+The Ubuntu printer driver used is the Generic Postscript Printer Foomatic/Postscript.
 
 The *Career* account has been setup to be able to print documents. The *Enderley* account does not have access to the printer.
 
