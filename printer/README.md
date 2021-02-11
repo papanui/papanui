@@ -13,12 +13,4 @@ Generic Postscript Printer Foomatic/Postscript
 
 The *Career* account has been setup to be able to print documents. The *Enderley* account does not have access to the printer.
 
-Steps to add the printer:
-* System --> Administration --> Printers
-* Click on *Add*
-* Enter password for Administrator account.
-* In New Printer window select, in Select Devices, click on Arrow to expand Network Printer dropdown.
-* The Fuji Xerox ApeosPort-IV C3373 is displayed.
-
-
-
+For the steps to allow an account to have access to the printer refer to [printer_setup.pdf](printer_setup.pdf)
