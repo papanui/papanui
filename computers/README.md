@@ -87,7 +87,7 @@ The donated hardware is fully depreciated. Thus, with no value, no insurance is 
 The hardware should meet a minimum specification which ensures an adequate level of performance. In some 
 cases a small investment is required to buy components to upgrade the computers to meet the specification.
 
-Additional costs per cost should not exceed $50 in petty cash. These costs may include, SSD, power cords, 
+Additional costs per computer should not exceed $50 in petty cash. These costs may include, SSD, power cords, 
 wifi card, etc., purchased, where possible, from a second hand dealer / re-cycler.
 
 Residents of this community should be encouraged to have similar computer systems and know how to configure 
