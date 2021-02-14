@@ -35,7 +35,7 @@ Upon completing remove the USB drive and reboot. The system should now come up f
 
 * Go on-line.
 
-* Install patches to take to latest revision
+* Install patches to take to latest revision. `Ctrl Alt T` to open terminal window.
 ```    
 $ sudo apt update
 $ sudo apt dist-upgrade
