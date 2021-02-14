@@ -37,6 +37,14 @@ Upon completing remove the USB drive and reboot. The system should now come up f
 
 * Go on-line.
 
+* Type `Ctrl Alt t` to open a terminal window.
+
+* Add additional software packages by entering the commands:
+```
+$ sudo apt install gimp blender inkscape
+$ sudo apt install gnome-games games-educaton
+```
+
 * Install patches to take to latest revision. `Ctrl Alt T` to open terminal window.
 ```    
 $ sudo apt update
@@ -87,6 +95,26 @@ $ sudo apt dist-upgrade
         - Allow Firefox to send backlogged crash reports on your behalf
 
     - Workspaces. Right click Preferences. Set workspaces = 1
+
+## Adding User Accounts
+
+The User Accounts *Enderley* and *Career* are created.
+
+* System --> Control Center --> Users and Groups.
+    - Click on Add. Enter Administrator password.
+    - *New User Window* is displayed. Name: *Enderley* and accept Username: *enderley*. Click *OK*.
+    - Click on *Change Users Password*. New Password: 12345678 Confirmation: 12345678
+    - Check *Don’t ask for password on login*.
+    - Click *OK*
+    - Click on *Account type:* Click on *Change*.  Select *Desktop user*.
+    
+    - Click on Add.
+    - *New User Window* is displayed. Name: *Career* and accept Username: *career*. Click *OK*.
+    - Click on *Change Users Password*. New Password: papanui Confirmation: papanui
+    - Leave Uncheckde *Don’t ask for password on login*.
+    - Click *OK*
+    - Click on *Account type:* Click on *Change*.  Select *Desktop user*.    
+    - Close
 
 ## Computer system box
 
