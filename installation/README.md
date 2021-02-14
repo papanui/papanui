@@ -101,20 +101,22 @@ $ sudo apt dist-upgrade
 The User Accounts *Enderley* and *Career* are created.
 
 * System --> Control Center --> Users and Groups.
-    - Click on Add. Enter Administrator password.
-    - *New User Window* is displayed. Name: *Enderley* and accept Username: *enderley*. Click *OK*.
-    - Click on *Change Users Password*. New Password: 12345678 Confirmation: 12345678
-    - Check *Don’t ask for password on login*.
-    - Click *OK*
-    - Click on *Account type:* Click on *Change*.  Select *Desktop user*.
-    
-    - Click on Add.
-    - *New User Window* is displayed. Name: *Career* and accept Username: *career*. Click *OK*.
-    - Click on *Change Users Password*. New Password: papanui Confirmation: papanui
-    - Leave Uncheckde *Don’t ask for password on login*.
-    - Click *OK*
-    - Click on *Account type:* Click on *Change*.  Select *Desktop user*.    
-    - Close
+    - Add Enderley Account
+        - Click on Add. Enter Administrator password.
+        - *New User Window* is displayed. Name: *Enderley* and accept Username: *enderley*. Click *OK*.
+        - Click on *Change Users Password*. New Password: 12345678 Confirmation: 12345678
+        - Check *Don’t ask for password on login*.
+        - Click *OK*
+        - Click on *Account type:* Click on *Change*.  Select *Desktop user*.
+
+    - Add Career Account
+        - Click on Add.
+        - *New User Window* is displayed. Name: *Career* and accept Username: *career*. Click *OK*.
+        - Click on *Change Users Password*. New Password: papanui Confirmation: papanui
+        - Leave Uncheckde *Don’t ask for password on login*.
+        - Click *OK*
+        - Click on *Account type:* Click on *Change*.  Select *Desktop user*.    
+        - Close
 
 ## Computer system box
 
