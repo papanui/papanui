@@ -80,8 +80,7 @@ $ sudo apt dist-upgrade
     - Language. Choose the languages used to display menus, messages, and notifications from Firefox.
     - Select *English (United Kingdom)* then restart.
 
-    - Privacy and Security --> Firefox Data Collection and Use
-    - Uncheck the following:
+    - Privacy and Security --> Firefox Data Collection and Use. Uncheck the following:
         - Allow Firefox to send technical and interaction data to Mozilla
         - Allow Firefox to make personalised extension recommendations
         - Allow Firefox to install and run studies
