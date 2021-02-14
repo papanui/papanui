@@ -21,7 +21,7 @@ The actions to perform that are listed below are abreviated and prior knowledge 
     - USA keyboard
     - Use entire SSD disk as one partition.
     - Account Administrator / administrator
-    - Computer Name: hp_1 or dell_1, lenovo_1, etc.
+    - Computer Name: *hp_1* or *dell_1*, *len_1*, etc.
     - Password: Use the default administrator password
     - Set password on login
     - Set Auckland Time zone
