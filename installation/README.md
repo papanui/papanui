@@ -82,10 +82,10 @@ $ sudo apt dist-upgrade
 
     - Privacy and Security --> Firefox Data Collection and Use
     - Uncheck the following:
-    - Allow Firefox to send technical and interaction data to Mozilla
-    - Allow Firefox to make personalised extension recommendations
-    - Allow Firefox to install and run studies
-    - Allow Firefox to send backlogged crash reports on your behalf
+        - Allow Firefox to send technical and interaction data to Mozilla
+        - Allow Firefox to make personalised extension recommendations
+        - Allow Firefox to install and run studies
+        - Allow Firefox to send backlogged crash reports on your behalf
 
     - Workspaces. Right click Preferences. Set workspaces = 1
 
