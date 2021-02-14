@@ -28,3 +28,16 @@ The actions to perform that are listed below are abreviated and prior knowledge 
 
 Upon completing remove the USB drive and reboot. The system should now come up from booting the SSD.
 
+
+## Updating
+
+* Log into Administrator account
+
+* Go on-line.
+
+* Install patches to take to latest revision
+```    
+$ sudo apt update
+$ sudo apt dist-upgrade
+```
+* Reboot and then `$ sudo apt autoremove`.
