@@ -12,7 +12,7 @@ The actions to perform that are listed below are abreviated and prior knowledge 
 
 * Download latest Long Term Support (L.T.S.) distro from Ubuntu Mate [repository](https://ubuntu-mate.org/download/amd64/).
 
-* Copy to a USB stick: See Ubuntu/Ubuntu MATE in https://ubuntu-mate.org/faq/usb-image/
+* Copy to a USB stick: See *Ubuntu/Ubuntu MATE* in https://ubuntu-mate.org/faq/usb-image/
 
 * Boot the USB stick with a blank SSD as drive /dev/sda.
 
