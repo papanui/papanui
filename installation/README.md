@@ -113,7 +113,7 @@ The User Accounts *Enderley* and *Career* are created.
         - Click on Add.
         - *New User Window* is displayed. Name: *Career* and accept Username: *career*. Click *OK*.
         - Click on *Change Users Password*. New Password: papanui Confirmation: papanui
-        - Leave Uncheckde *Don’t ask for password on login*.
+        - Leave Unchecked *Don’t ask for password on login*.
         - Click *OK*
         - Click on *Account type:* Click on *Change*.  Select *Desktop user*.    
         - Close
