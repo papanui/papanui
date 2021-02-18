@@ -118,6 +118,123 @@ The User Accounts *Enderley* and *Career* are created.
         - Click on *Account type:* Click on *Change*.  Select *Desktop user*.    
         - Close
 
+* Log out of Administrator account
+
+## Tailoring Enderley Account
+
+* Log into Enderley. No password is required. Wait for splash screen.
+    - On splash screen do not allow transmission of Telemetry information.
+    - Turn off Welcome splash screen on login.
+
+
+* Menu --> Control Centre > MATE Tweak --> Panel. Select a panel layout to change the user interface. Select **Traditional** and then *Close* window. This provides a main menu with *Applications*, *Places* and *System*.
+
+*  System --> Control Centre --> Screensaver.
+    - Uncheck Activate screensaver when computer is idle.
+    - Uncheck Lock screen when screensaver is active.
+    - Close
+
+*  System --> Control Centre --> Power Management.
+    - *On AC Power* tab, set both options to *Never*.
+
+* Launch Writer. Applications --> Office --> LibreOffice Writer. 
+    - Select Tools --> Extension Manager. Click on *Get more extensions online...*. This opens a browser at https://extensions.libreoffice.org/.
+
+    - In the *what are you looking for* enter *Zealand*. Click on *New Zealand Spellchecker*. Click on *Download*. Open with Libre Office (default)
+    - Click OK to install.
+    - Restart Writer.
+    - Enter a Maori place name, like *Whanganui* and spell it incorrectly. See if the spellchecker will prompt with the correct spelling.
+
+* Set preferences for Pluma. Applications --> Accessories --> Pluma. Edit --> Preferences --> Font and colors. 
+    - Uncheck “Use the system fixed font width” 
+    - Click on the Editor Font and increase size to 15. 
+    - In the Color Scheme select *Colbalt*.
+
+* Set preferences for Terminal. Applications --> System Tools --> MATE Terminal. Edit --> Profile Preferences. 
+    - Uncheck *Use the system fixed width font* click on the *Font*. Increase size to “14”.
+    - Click the Colors tab. Uncheck *Use colors from the system theme*. 
+    - Click on the Scrolling tab and check *Unlimited*
+
+* Set preferences for Mozilla Firefox.
+    - General --> Startup. Check *Restore previous session*.
+
+    - Language. Choose the languages used to display menus, messages, and notifications from Firefox.
+    - Select *English (United Kingdom)* then restart.
+
+    - Privacy and Security --> Firefox Data Collection and Use. Uncheck the following:
+        - Allow Firefox to send technical and interaction data to Mozilla
+        - Allow Firefox to make personalised extension recommendations
+        - Allow Firefox to install and run studies
+        - Allow Firefox to send backlogged crash reports on your behalf
+
+* Workspaces. Right click Preferences. Set workspaces = 1
+
+## Install guest account cleaner in Enderley Account.
+
+* Follow instructions and download app from https://github.com/irsbugs/guest-account-cleaner
+
+* Change the code at line 22 from `ACCOUNT_NAME = "guest"` to `ACCOUNT_NAME = "enderley"`
+
+* shutdown / reboot
+
+## Tailoring Career Account
+
+* Log into Career. Wait for splash screen.
+    - On splash screen do not allow transmission of Telemetry information.
+    - Turn off Welcome splash screen on login.
+
+
+* Menu --> Control Centre > MATE Tweak --> Panel. Select a panel layout to change the user interface. Select **Traditional** and then *Close* window. This provides a main menu with *Applications*, *Places* and *System*.
+
+*  System --> Control Centre --> Screensaver.
+    - Uncheck Activate screensaver when computer is idle.
+    - Uncheck Lock screen when screensaver is active.
+    - Close
+
+*  System --> Control Centre --> Power Management.
+    - *On AC Power* tab, set both options to *Never*.
+
+* Launch Writer. Applications --> Office --> LibreOffice Writer. 
+    - Select Tools --> Extension Manager. Click on *Get more extensions online...*. This opens a browser at https://extensions.libreoffice.org/.
+
+    - In the *what are you looking for* enter *Zealand*. Click on *New Zealand Spellchecker*. Click on *Download*. Open with Libre Office (default)
+    - Click OK to install.
+    - Restart Writer.
+    - Enter a Maori place name, like *Whanganui* and spell it incorrectly. See if the spellchecker will prompt with the correct spelling.
+
+* Set preferences for Pluma. Applications --> Accessories --> Pluma. Edit --> Preferences --> Font and colors. 
+    - Uncheck “Use the system fixed font width” 
+    - Click on the Editor Font and increase size to 15. 
+    - In the Color Scheme select *Colbalt*.
+
+* Set preferences for Terminal. Applications --> System Tools --> MATE Terminal. Edit --> Profile Preferences. 
+    - Uncheck *Use the system fixed width font* click on the *Font*. Increase size to “14”.
+    - Click the Colors tab. Uncheck *Use colors from the system theme*. 
+    - Click on the Scrolling tab and check *Unlimited*
+
+* Set preferences for Mozilla Firefox.
+    - General --> Startup. Check *Restore previous session*.
+
+    - Language. Choose the languages used to display menus, messages, and notifications from Firefox.
+    - Select *English (United Kingdom)* then restart.
+
+    - Privacy and Security --> Firefox Data Collection and Use. Uncheck the following:
+        - Allow Firefox to send technical and interaction data to Mozilla
+        - Allow Firefox to make personalised extension recommendations
+        - Allow Firefox to install and run studies
+        - Allow Firefox to send backlogged crash reports on your behalf
+
+* Workspaces. Right click Preferences. Set workspaces = 1
+
+## Adding Printer to Career Account
+
+The career account is designed such that Users have access to print their documents.
+
+Refer to the [printer](papnui/printer/README.md) documentation.
+
+* shutdown / reboot.
+
+
 ## Computer system box
 
 * Remove any Microsoft labels
