@@ -237,6 +237,6 @@ Refer to the [printer](/printer/README.md) documentation and follow steps om the
 
 ## Computer system box
 
-* Remove any Microsoft labels
+* Remove any non-applicable labels from the system box.
 
 
