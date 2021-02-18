@@ -230,7 +230,7 @@ The User Accounts *Enderley* and *Career* are created.
 
 The career account is designed such that Users have access to print their documents.
 
-Refer to the [printer](papnui/printer/README.md) documentation.
+Refer to the [printer](/printer/README.md) documentation.
 
 * shutdown / reboot.
 
