@@ -230,7 +230,7 @@ The User Accounts *Enderley* and *Career* are created.
 
 The career account is designed such that Users have access to print their documents.
 
-Refer to the [printer](/printer/README.md) documentation and follow steps om the slide show [printer_setup.pdf](printer_setup.pdf)
+Refer to the [printer](/printer/README.md) documentation and follow steps om the slide show [printer_setup.pdf](/printer/printer_setup.pdf)
 
 * shutdown / reboot.
 
