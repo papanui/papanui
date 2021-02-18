@@ -94,7 +94,7 @@ $ sudo apt dist-upgrade
         - Allow Firefox to install and run studies
         - Allow Firefox to send backlogged crash reports on your behalf
 
-*Workspaces. Right click Preferences. Set workspaces = 1
+* Workspaces. Right click Preferences. Set workspaces = 1
 
 ## Adding User Accounts
 
