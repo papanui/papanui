@@ -112,7 +112,7 @@ The User Accounts *Enderley* and *Career* are created.
     - Add *Career* Account
         - Click on Add.
         - *New User Window* is displayed. Name: *Career* and accept Username: *career*. Click *OK*.
-        - Click on *Change Users Password*. New Password: papanui Confirmation: papanui
+        - Click on *Change Users Password*. Enter the *New Password* and provide *Confirmation*. The password used is in private-info repository.
         - Leave Unchecked *Don’t ask for password on login*.
         - Click *OK*
         - Click on *Account type:* Click on *Change*.  Select *Desktop user*.    
