@@ -186,5 +186,5 @@ software distributions and repair faulty hardware.
 
 * Avoid buying major IT products brand new.
 * Only ever buy the cheap IT accessories brand new.
-* Use second hand or donated IT products.
-* 
+* Use second hand or donated IT hardware products.
+* Use only free open source software products.
