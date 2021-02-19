@@ -180,3 +180,11 @@ latest set of updates to all computers.
 
 If suitable training is provided to these volunteers, then it is expected they would be able to install 
 software distributions and repair faulty hardware.
+
+
+## Purchasing Guideline.
+
+* Avoid buying major IT products brand new.
+* Only ever buy the cheap IT accessories brand new.
+* Use second hand or donated IT products.
+* 
