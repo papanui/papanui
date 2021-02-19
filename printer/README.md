@@ -9,3 +9,19 @@ The Ubuntu printer driver used is the Generic Postscript Printer Foomatic/Postsc
 The *Career* account has been setup to be able to print documents. The *Enderley* account does not have access to the printer.
 
 For the steps to allow an account to have access to the printer refer to [printer_setup.pdf](printer_setup.pdf)
+
+The printer has the ability to scan pages to a pdf file. This file is then sent as an email attachment. If a gmail account is used to perform the SMTP mail server function then it requires the account to have *less secure app* turned on. 
+
+See the recommendations from Google on the use of *less secure app*.
+
+https://workspaceupdates.googleblog.com/2019/12/less-secure-apps-oauth-google-username-password-incorrect.html
+
+https://workspaceupdates.googleblog.com/2020/03/less-secure-app-turn-off-suspended.html
+
+https://support.google.com/a/thread/23171533?hl=en
+
+https://developers.google.com/identity/protocols/oauth2
+
+
+
+
