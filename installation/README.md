@@ -239,4 +239,18 @@ Refer to the [printer](/printer/README.md) documentation and follow steps om the
 
 * Remove any non-applicable labels from the system box.
 
+# Cloning
 
+A system disk may be cloned to a blank disk in the following way.
+
+* Install the system (master) disk as sda and the blank disk at sdb.
+* Boot Ubuntu from a USB stick.
+* Open a terminal window and $ lsblk and confirm that sda is the master disk and sdb is blank.
+* Install pv ([Pipe Viewer](https://community.linuxmint.com/software/view/pv)) `$ sudo apt install pv`
+* Perform the cloning: `$ sudo sh -c 'pv /dev/sda >/dev/sdb'`
+
+A progress bar will perform updates every second.
+
+Upon completing the copying, remove sdb, the cloned disk. Install the cloned disk as sda into another computer. Upon completion of booting open a terminal window and edit hostname: `$ sudo nano /etc/hostname`
+
+Change the name so that it is unique to this computer.
