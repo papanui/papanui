@@ -1,4 +1,4 @@
-# Printers at Te Papanui enderley Community Trust
+# Printers at Te Papanui Enderley Community Trust
 
 Version: 2021-02-11
 
