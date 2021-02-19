@@ -12,7 +12,7 @@ For the steps to allow an account to have access to the printer refer to [printe
 
 The printer has the ability to scan pages to a pdf file. This file is then sent as an email attachment. If a gmail account is used to perform the SMTP mail server function then it requires the account to have *less secure app* turned on. 
 
-See the recommendations from Google on the use of *less secure app*.
+See the recommendations and discussion on the use of *less secure app*.
 
 https://workspaceupdates.googleblog.com/2019/12/less-secure-apps-oauth-google-username-password-incorrect.html
 
@@ -22,6 +22,6 @@ https://support.google.com/a/thread/23171533?hl=en
 
 https://developers.google.com/identity/protocols/oauth2
 
-
+https://bytexd.com/less-secure-apps-gmail/
 
 
