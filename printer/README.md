@@ -1,6 +1,12 @@
 # Printers at Te Papanui Enderley Community Trust
 
-Version: 2021-02-11
+## Fuji-Xerox ApeosPort-IV C3373.
+
+Installed Prior to: 2021-Feb
+
+Location: First Floor Main Room
+
+Static IP Address: 192.168.1.248
 
 The printer is a Fuji-Xerox ApeosPort-IV C3373. [Administration Manual](https://www.manualslib.com/manual/1063690/Fuji-Xerox-Apeosport-Iv-C5575.html)
 
@@ -23,5 +29,32 @@ https://support.google.com/a/thread/23171533?hl=en
 https://developers.google.com/identity/protocols/oauth2
 
 https://bytexd.com/less-secure-apps-gmail/
+
+https://support.google.com/a/answer/176600
+
+https://support.google.com/accounts/answer/6010255?hl=en
+
+From the above: To help keep your account secure, starting May 30, 2022, Google will no longer support the use of third-party apps or devices which ask you to sign in to your Google Account using only your username and password.
+
+
+## FujiFilm Apeos C5570
+
+Installed: 2022-05-24
+
+Location: Ground floor Reception
+
+Static IP Address: 192.168.1.247
+
+Refernece Guide Main Unit:
+https://www.manualslib.com/manual/2196740/Fujifilm-Apeos-C7070.html#manual
+
+Reference Guide Optional Units:
+
+https://www.manualslib.com/manual/2203901/Fujifilm-Apeos-C7070.html#manual
+
+Quick Reference Notes. Daily Care
+
+https://www.manualslib.com/manual/2310707/Fujifilm-Apeosport-C7070.html#manual
+
 
 
