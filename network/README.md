@@ -19,5 +19,9 @@ Devices at fixed addresses with web based server management:
 * 192.168.1.240 - Grandstream GWN7610. Reception.
 * 192.168.1.247 - FujiFilm Apeos C5570 Printer. Ground floor.
 * 192.168.1.248 - Fuji-Xerox ApeosPort-IV C3373. First floor.
+* 192.168.1.250 - TVT Security - Currently at 192.168.1.200
 * 192.168.1.254 - Huawei HG253s V2 Gateway. First floor.
 
+## Device Without Web server management
+
+* D-Link DGS-1024D
