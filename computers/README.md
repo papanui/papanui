@@ -188,3 +188,27 @@ software distributions and repair faulty hardware.
 * Only ever buy the cheap IT accessories brand new.
 * Use second hand or donated IT hardware products.
 * Use only free open source software products.
+  
+## Guide to upgrading 20.04 directly to 24.04
+
+* [Upgrading 20.04 to 24.04](https://linuxpatch.com/howtos/upgrade-ubuntu-2004-to-2404-lts)
+
+## Disable the Guset account that is added by Ubuntu 24.04
+
+* [Disable Guest Account](https://www.ubuntubuzz.com/2012/03/how-to-disable-guest-account-in-ubuntu.html)
+
+  OR:
+1. >>> sudo pluma /etc/lightdm/lightdm.conf.d/90-arctica-greeter.conf
+2. Edit:
+   ```
+   # disable guest sessions (a guest session requires a valid default
+   # user-session parameter, see below)
+   #allow-guest=true```
+
+3. >>> sudo pluma /etc/lightdm/lightdm.conf.d/91-arctica-greeter-mate.conf
+   Edit:
+   ```
+   # disable guest sessions (a guest session requires a valid default
+   # user-session parameter, see below)
+   allow-guest=true greeter-allow-guest=true
+   ```
