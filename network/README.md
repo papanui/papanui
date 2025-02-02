@@ -24,8 +24,15 @@ Documentation:
 
 * [Spark Smart Modem 3 - Quick Start Guide](Spark%20Smart%20Modem%203.pdf)
 * [Spark Smart Modem 3 - Technical Specifications](Spark%20Smart%20Modem3%20Technical%20Specs.pdf)
-*
-* (https://github.com/papanui/papanui/blob/main/network/Spark%20Smart%20Modem%203.pdf)
+
+Documentation External Links:
+
+* [Spark Smart Modem 3 - Quick Start Guide]https://www.spark.co.nz/content/dam/telecomcms/modems/Spark%20Smart%20Modem%203.pdf
+* [Spark Smart Modem 3 - Technical Specifications](https://www.spark.co.nz/online/shop/broadband/spark-smart-modems#tabgallery-1)
+
+
+
+(https://github.com/papanui/papanui/blob/main/network/Spark%20Smart%20Modem%203.pdf)
 
 
 ## Decommissioned Products
