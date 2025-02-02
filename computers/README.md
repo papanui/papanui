@@ -193,7 +193,7 @@ software distributions and repair faulty hardware.
 
 * [Upgrading 20.04 to 24.04](https://linuxpatch.com/howtos/upgrade-ubuntu-2004-to-2404-lts)
 
-## Disable the Guset account that is added by Ubuntu 24.04
+## Disable the Guest account that is added by Ubuntu 24.04
 
 * [Disable Guest Account](https://www.ubuntubuzz.com/2012/03/how-to-disable-guest-account-in-ubuntu.html)
 
