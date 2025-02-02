@@ -20,13 +20,11 @@ Devices at fixed addresses with web based server management:
 
 ##Spark Smart Modem 3
 
-* Address: `192.168.1.0 to 255`
+* Address range: `192.168.1.0 to 255`
 * Management port: `192.168.1.254`
-* DHCP range: `64 to 199`
+* DHCP range: `.64 to .199`
 
 Documentation:
-
-
 
 * [Spark Smart Modem 3 - Quick Start Guide](Spark%20Smart%20Modem%203.pdf)
 * [Spark Smart Modem 3 - Technical Specifications](Spark%20Smart%20Modem3%20Technical%20Specs.pdf)
