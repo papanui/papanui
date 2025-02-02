@@ -18,7 +18,7 @@ Devices at fixed addresses with web based server management:
 
 ## Spark Smart Modem 3
 
-The modem is a Spark Smart Modem 3. This product is from Taiwanese company [Arcadyan](https://www.arcadyan.com/en-us/).
+The Spark Smart Modem 3 is a product from Taiwanese company [Arcadyan](https://www.arcadyan.com/en-us/).
 
 * Address range: `192.168.1.0 to 255`
 * Management port: `192.168.1.254`
