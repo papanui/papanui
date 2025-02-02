@@ -28,7 +28,8 @@ Documentation:
 
 * [Spark Smart Modem 3 - Quick Start Guide](Spark%20Smart%20Modem%203.pdf)
 * [Spark Smart Modem 3 - Technical Specifications](Spark%20Smart%20Modem3%20Technical%20Specs.pdf)
-
+* [SM3 - Guide for changing Guest Password](SM3%20-%20Guide%20for%20changing%20Guest%20Password.pdf)
+  
 Documentation External Links:
 
 * [Spark Smart Modem 3 - Quick Start Guide](https://www.spark.co.nz/content/dam/telecomcms/modems/Spark%20Smart%20Modem%203.pdf)
