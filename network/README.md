@@ -4,10 +4,6 @@ Version 2021-02-08. Updated 2022-05-30. Updated 2025-02-01
 
 ## Static IP Addresses.
 
-The modem is a Spark Smart Modem 3. This product is from Taiwanese company [Arcadyan](https://www.arcadyan.com/en-us/)
-
-The network was in the range 192.169.5.0-255 and was changed on 2022-05-30 to be the range 192.168.1.0-255`.
-
 Devices at fixed addresses with web based server management:
 
 * 192.168.1.239 - Netgear 24 port switch - JGS524PE
@@ -20,7 +16,9 @@ Devices at fixed addresses with web based server management:
 
 * D-Link DGS-1024D
 
-##Spark Smart Modem 3
+## Spark Smart Modem 3
+
+The modem is a Spark Smart Modem 3. This product is from Taiwanese company [Arcadyan](https://www.arcadyan.com/en-us/).
 
 * Address range: `192.168.1.0 to 255`
 * Management port: `192.168.1.254`
