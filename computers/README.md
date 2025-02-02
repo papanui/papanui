@@ -198,14 +198,14 @@ software distributions and repair faulty hardware.
 * [Disable Guest Account](https://www.ubuntubuzz.com/2012/03/how-to-disable-guest-account-in-ubuntu.html)
 
   OR:
-1. sudo pluma /etc/lightdm/lightdm.conf.d/90-arctica-greeter.conf
+1. `>>> sudo pluma /etc/lightdm/lightdm.conf.d/90-arctica-greeter.conf`
 2. Edit:
    ```
    # disable guest sessions (a guest session requires a valid default
    # user-session parameter, see below)
    #allow-guest=true```
 
-3. sudo pluma /etc/lightdm/lightdm.conf.d/91-arctica-greeter-mate.conf
+3. `>>> sudo pluma /etc/lightdm/lightdm.conf.d/91-arctica-greeter-mate.conf`
 4. Edit:
    ```
    # disable guest sessions (a guest session requires a valid default
