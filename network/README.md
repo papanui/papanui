@@ -22,7 +22,7 @@ Spark Smart Modem 3
 
 Documentation:
 
-* [Spark Smart Modem 3 - Quick Start Guide](Spark Smart Modem3.pdf)
+[Spark Smart Modem 3 - Quick Start Guide](network/Spark Smart Modem3.pdf)
 
 
 ## Decommissioned Products
