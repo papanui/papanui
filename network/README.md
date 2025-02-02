@@ -18,9 +18,15 @@ Devices at fixed addresses with web based server management:
 
 * D-Link DGS-1024D
 
-Spark Smart Modem 3
+##Spark Smart Modem 3
+
+* Address: `192.168.1.0 to 255`
+* Management port: `192.168.1.254`
+* DHCP range: `64 to 199`
 
 Documentation:
+
+
 
 * [Spark Smart Modem 3 - Quick Start Guide](Spark%20Smart%20Modem%203.pdf)
 * [Spark Smart Modem 3 - Technical Specifications](Spark%20Smart%20Modem3%20Technical%20Specs.pdf)
@@ -31,7 +37,7 @@ Documentation External Links:
 * [Spark Smart Modem 3 - Technical Specifications](https://www.spark.co.nz/online/shop/broadband/spark-smart-modems#tabgallery-1)
 
 
-## Decommissioned Products
+## Decommissioned Product Information
 
 The network was in the range 192.169.5.0-255 and was changed on 2022-05-30 to be the range 192.168.1.0-255`.
 
