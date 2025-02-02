@@ -25,6 +25,9 @@ Documentation:
 [Spark Smart Modem 3 - Quick Start Guide](network/Spark Smart Modem3.pdf)
 
 
+[Spark Smart Modem 3](https://github.com/papanui/papanui/blob/main/network/Spark%20Smart%20Modem%203.pdf)
+
+
 ## Decommissioned Products
 
 The network was in the range 192.169.5.0-255 and was changed on 2022-05-30 to be the range 192.168.1.0-255`.
