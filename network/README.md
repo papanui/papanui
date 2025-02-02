@@ -22,10 +22,10 @@ Spark Smart Modem 3
 
 Documentation:
 
-[Spark Smart Modem 3 - Quick Start Guide](network/Spark Smart Modem3.pdf)
+[Spark Smart Modem 3 - Quick Start Guide](Spark%20Smart%20Modem%203.pdf)
 
 
-[Spark Smart Modem 3](https://github.com/papanui/papanui/blob/main/network/Spark%20Smart%20Modem%203.pdf)
+* [Spark Smart Modem 3 - Quick Start Guide](https://github.com/papanui/papanui/blob/main/network/Spark%20Smart%20Modem%203.pdf)
 
 
 ## Decommissioned Products
