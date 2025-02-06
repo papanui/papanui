@@ -117,8 +117,7 @@ Click to get to the github page to download the debian package: [Microsoft Onlin
 
 # Microsoft Fonts for Linux
 
-Installing Microsoft TrueType Fonts on Ubuntu-based system adds the following fonts to LibreOffice:
-ttf-mscorefonts-installer is V3.8.1ubuntu1 as of 2025-02-07 24.04 Ubuntu.
+Installing Microsoft True Type Fonts on Ubuntu-based systems adds the following fonts to LibreOffice:
 
 * Andale Mono
 * Arial
@@ -131,6 +130,10 @@ ttf-mscorefonts-installer is V3.8.1ubuntu1 as of 2025-02-07 24.04 Ubuntu.
 * Trebuchet MS
 * Verdana
 * Windings
+
+Examples of the above fonts and Liberation family of fonts are available in the pdf file: [Fonts added to Libre Office](Fonts added to Libre Office)
+
+Note: ttf-mscorefonts-installer is V3.8.1ubuntu1 as of 2025-02-07 24.04 Ubuntu.
 
 ## Introduction
 
