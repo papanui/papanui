@@ -117,15 +117,20 @@ Click to get to the github page to download the debian package: [Microsoft Onlin
 
 # Microsoft Fonts for Linux
 
-Install Microsoft TrueType Fonts on Ubuntu-based Distributions
+Installing Microsoft TrueType Fonts on Ubuntu-based system adds the following fonts to LibreOffice:
+ttf-mscorefonts-installer is V3.8.1ubuntu1 as of 2025-02-07 24.04 Ubuntu.
 
-* Times New Roman
-* Arial Black
+* Andale Mono
 * Arial
+* Arial Black
 * Comic Sans MS
 * Courier New
+* Georgia
 * Impact
+* Times New Roman
+* Trebuchet MS
 * Verdana
+* Windings
 
 ## Introduction
 
