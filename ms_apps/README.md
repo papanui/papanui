@@ -131,7 +131,7 @@ Installing Microsoft True Type Fonts on Ubuntu-based systems adds the following 
 * Verdana
 * Windings
 
-Examples of the above fonts and Liberation family of fonts are available in the pdf file: [Fonts added to Libre Office](Fonts added to Libre Office)
+Examples of the above fonts and Liberation family of fonts are available in the pdf file: [Fonts added to Libre Office](Fonts-added-to-LibreOffice.pdf)
 
 Note: ttf-mscorefonts-installer is V3.8.1ubuntu1 as of 2025-02-07 24.04 Ubuntu.
 
