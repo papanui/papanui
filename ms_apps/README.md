@@ -4,7 +4,7 @@ Shorcuts for Microsoft Online Applications is a non-official version by Dejan Pe
 This provides launchers in:
 
 * Applications --> Microsoft Online Apps
-* Applicaations --> Office.
+* Applications --> Office.
 
 The product available to launch are:
 
