@@ -111,7 +111,7 @@ ms-online-apps
                 └── microsoftonlineapps.png
 ```
 
-The V2.0 `microsoft-online-apps.deb` file is in this papanui repository in the ms_apps folder.
+The V2.0 `microsoft-online-apps.deb` file is in this papanui repository in the [ms_apps](./ms_apps) folder.
 
 Click to get to the github page to download the debian package: [Microsoft Online Apps](microsoft-online-apps.deb)
 
