@@ -397,48 +397,30 @@ ian@hp:~$
 
 ```
 
-## TFF's from the installation log are:
+## Free Fonts in Microsoft Online Word:
 
-* AndaleMo.TTF
-  
-* Ariali.TTF
-* * Arialbd.TTF
-* * Arialbi.TTF
-* Arial.TTF
-* 
-* AriBlk.TTF
-* 
-* Comicbd.TTF
-* Comic.TTF
-* 
-* cour.ttf
-* courbd.ttf
-* courbi.ttf
-* couri.ttf
-* 
-* Georgiaz.TTF
-* Georgiab.TTF
-* Georgiai.TTF
-* Georgia.TTF
-* 
-* Impact.TTF
-* 
-* Times.TTF
-* Timesbd.TTF
-* Timesbi.TTF
-* Timesi.TTF
-* 
-* trebuc.ttf
-* Trebucbd.ttf
-* trebucbi.ttf
-* trebucit.ttf
-* 
-* Verdanab.TTF
-* Verdanai.TTF
-* Verdanaz.TTF
-* Verdana.TTF
-* 
-* Webdings.TTF
+In the online MS-Word application, there are *Free Fonts* and *Premium Fonts* which require a payment. The eleven *Free Fonts* that were included with ttf-microsoft-installer package given below:
+
+* Arial
+* Comic Sans MS
+* Courier New
+* Georgia
+* Times New Roman
+* Trebuchet MS
+* Verdana
+
+When creating LibreOffice Writer .odt documents for use with Microsoft Online Word, then using only the above fonts should make a more compatible document on Word. 
+
+These two fonts are in the *Premium Fonts* list. Don't use unless you have paid for the Microsoft premium service:
+
+* Impact
+* Windings
+
+These two fonts appear to have gone end-of-life and are not listed in either *Free* or *Premium* Fonts on the Online MS-Word:
+
+* Andale Mono
+* Arial Black
+
 
 ## Differences between the Open Document Text (.odt) and the Word (.docx) format used by the Web
 
