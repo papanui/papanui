@@ -440,4 +440,6 @@ ian@hp:~$
 * 
 * Webdings.TTF
 
-* 
+## Differences between the Open Document Text (.odt) and the Word (.docx) format used by the Web
+
+For details on the differencess refer to this Microsoft provided [document](https://support.office.com/EN-US/client/results?Shownav=true&lcid=1033&ns=WDWAEndUser&version=15&omkt=EN-US&ver=15&apps=WDWAENDUSER%2CXLWAENDUSER%2CPPWAENDUSER%2CONWAENDUSER&HelpID=WordODF)
